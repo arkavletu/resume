@@ -7,4 +7,4 @@
 + Общие
 + Компьютерные  
 
-![фото](C:/Users/Алина/курсач-резюме/img/IMG_20210626_212206.jpg)
+![фото](https://github.com/arkavletu/resume/blob/main/img/IMG_20210626_212206.jpg)
